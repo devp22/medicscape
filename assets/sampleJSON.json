@@ -1,0 +1,152 @@
+{
+	"CommonConditions":[
+		{
+			"Name": "Fever",
+			"DBName": "Fever",
+			"Image": "assets/images/fever.png"
+		},
+		{
+			"Name": "Stomachache",
+			"DBName": "Stomachache",
+			"Image": "assets/images/stomachache.png"
+		},
+		{
+			"Name": "Nosebleeding",
+			"DBName": "Nosebleeding",
+			"Image": "assets/images/nose-bleeding.png"
+		},
+		{
+			"Name": "Bruise",
+			"DBName": "Bruise",
+			"Image": "assets/images/bruises.png"
+		},
+		{
+			"Name": "Common Cold",
+			"DBName": "CommonCold",
+			"Image": "assets/images/commoncold.png"
+		},
+		{
+			"Name": "Swimmer's Ears",
+			"DBName": "Swimmer_s_Ears",
+			"Image": "assets/images/commoncold.png"
+		},
+		{
+			"Name": "Conjunctivitis",
+			"DBName": "Conjunctivitis",
+			"Image": "assets/images/conjunctivitis.png"
+		},
+		{
+			"Name": "Excessive Sweating",
+			"DBName": "ExcessiveSweating",
+			"Image": "assets/images/excessivesweating.png"
+		},
+		{
+			"Name": "Headache",
+			"DBName": "Headache",
+			"Image": "assets/images/headache.png"
+		}
+	],
+	"EmergencyResponse":[
+		{
+			"Name":"Signs of Heart Attack",
+			"DBName":"HeartAttack",
+			"Image": "assets/images/heart-attack.png"
+		},
+		{
+			"Name":"Electric Shock",
+			"DBName":"ElectricShock",
+			"Image": "assets/images/electricshock.png"
+		},
+		{
+			"Name":"Fainting",
+			"DBName":"Fainting",
+			"Image": "assets/images/fainting.png"
+		},
+		{
+			"Name":"Asthama Attack",
+			"DBName":"AsthamaAttack",
+			"Image": "assets/images/asthma.png"
+		},
+		{
+			"Name":"Choking",
+			"DBName":"Choking",
+			"Image": "assets/images/choking.png"
+		}
+		
+	],
+	"CriticalConditions":[
+		{
+			"Name":"Animal Bite",
+			"DBName":"AnimalBite",
+			"Image": "assets/images/animalattack.png"
+		},
+		{
+			"Name":"Severe Burns",
+			"DBName":"SevereBurns",
+			"Image": "assets/images/burning.png"
+		},
+		{
+			"Name":"Snake Poison",
+			"DBName":"SnakePoison",
+			"Image": "assets/images/snake.png"
+		},
+		{
+			"Name":"Fracture",
+			"DBName":"Fracture",
+			"Image": "assets/images/fracture.png"
+		},
+		{
+			"Name": "Drug Overdose",
+			"DBName": "DrugOverdose",
+			"Image": "assets/images/overdose.png"
+		},
+		{
+			"Name":"Head Injury",
+			"DBName":"HeadInjury",
+			"Image": "assets/images/head.png"
+		},
+		{
+			"Name":"Unconsciousness",
+			"DBName":"Unconsciousness",
+			"Image": "assets/images/Unconsciousness.png"
+		},
+		{
+			"Name":"Vehicle Accident",
+			"DBName":"VehicleAccident",
+			"Image": "assets/images/vehicleaccident.png"
+		}
+	],
+	"NaturalCalamities":[
+		{
+			"Name":"Earthquake",
+			"DBName":"Earthquake",
+			"Image": "assets/images/earthquake.png"
+		},
+		{
+			"Name":"Landslides",
+			"DBName":"Landslides",
+			"Image": "assets/images/landslide.png"
+		},
+		{
+			"Name":"Tsunami",
+			"DBName":"Tsunami",
+			"Image": "assets/images/tsunami.png"
+		},
+		{
+			"Name":"Floods",
+			"DBName":"Floods",
+			"Image": "assets/images/flooded-house.png"
+		},
+		{
+			"Name":"Cyclone",
+			"DBName":"Cyclone",
+			"Image": "assets/images/cyclone.png"
+		},
+		{
+			"Name":"Lightning Strike",
+			"DBName":"LightningStrike",
+			"Image": "assets/images/lightning.png"
+		}
+	]
+
+}

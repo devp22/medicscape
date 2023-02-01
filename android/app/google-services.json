@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "218308789530",
+    "project_id": "medicscape-5eaf5",
+    "storage_bucket": "medicscape-5eaf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218308789530:android:f6f49a2f158ee1bc7118a3",
+        "android_client_info": {
+          "package_name": "com.example.medicscape"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218308789530-ni5gf1av2f33pkpc76bbjlfg9r9d0oqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZq0JM08gbxd2ZYN5QciyPYa4Qtc5KXm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218308789530-ni5gf1av2f33pkpc76bbjlfg9r9d0oqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
